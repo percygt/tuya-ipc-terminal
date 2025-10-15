@@ -15,6 +15,7 @@ var AvailableRegions = []tuya.Region{
 	{"eu-east", "protect-we.ismartlife.me", "East Europe", "EU"},
 	{"us-west", "protect-us.ismartlife.me", "West America", "AZ"},
 	{"us-east", "protect-ue.ismartlife.me", "East America", "AZ"},
+	{"singapore", "protect-sg.ismartlife.me", "Singapore", "SG"},
 	{"china", "protect.ismartlife.me", "China", "AY"},
 	{"india", "protect-in.ismartlife.me", "India", "IN"},
 }
